@@ -1,0 +1,5 @@
+[Variables]
+High=200
+Middle=120
+Low=70
+NightscoutUrl=https://path.to.nightscout.app/  ;keep trailing slash (/)
